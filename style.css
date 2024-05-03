@@ -1,0 +1,35 @@
+.navbar{
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+}
+*{
+    font-family: montserrat;
+}
+body{
+    background: f1fbff;
+}
+.sectoin-padding{
+    padding: 100px 0px;
+}
+.carousel-item{
+    height: 100vh;
+    min-height: 300px;
+}
+.carousel-caption{
+    bottom: 220px;
+    z-index: 2;
+}
+.carousel-caption h5{
+    font-size: 45px;
+    letter-spacing: 2px;
+    margin-top: 35px;
+    text-transform: uppercase;
+} 
+.carousel-caption p{
+    font-size: 15px;
+    width: 60%;
+    margin: auto;
+    line-height: 2;
+}
+
